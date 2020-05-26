@@ -108,7 +108,7 @@ h6 {font-size:25px; line-height:30px}
 .text-extra-light-gray, .btn.text-extra-light-gray {color:#b7b7b7}
 .text-light-gray, .btn.text-light-gray {color:#d6d5d5}
 .text-very-light-gray, .btn.text-very-light-gray {color:#ededed}
-.text-deep-pink, .btn.text-deep-pink {color:#ff214f}
+.text-t50, .btn.text-t50 {color:#06799B}
 
 /* dropcap */
 .first-letter {float: left; font-size: 50px; line-height: auto; margin: 0 20px 0 0; text-align: center; padding: 10px 0; font-weight: 600}
@@ -141,7 +141,7 @@ a.text-link-deep-pink:hover, a.text-link-deep-pink:hover i, a.text-link-deep-pin
 /* hover color */
 a.text-white-2-hover:hover, a.text-white-2-hover:focus {color:#fff !important;}
 a.text-black-hover:hover, a.text-black-hover:focus {color:#000 !important;}
-a.text-deep-pink-hover:hover, a.text-deep-pink-hover:focus {color:#ff214f !important;}
+a.text-t50-hover:hover, a.text-t50-hover:focus {color:#ff214f !important;}
 a.text-extra-dark-gray-hover:hover {color:#232323 !important;}
 a.text-dark-gray-hover:hover {color:#626262 !important;}
 a.text-extra-medium-gray-hover:hover {color:#757575 !important;}
